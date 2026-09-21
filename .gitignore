@@ -1,0 +1,15 @@
+# Java y Maven
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+
+# Node y React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Editores y Sistema
+.vscode/
+.idea/
+.DS_Store
+*.log
