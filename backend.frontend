@@ -1,0 +1,5 @@
+guau-project/
+├── backend/          (Tu proyecto Spring Boot)
+├── frontend/         (Tu proyecto React / Vite)
+├── .gitignore
+└── README.md
